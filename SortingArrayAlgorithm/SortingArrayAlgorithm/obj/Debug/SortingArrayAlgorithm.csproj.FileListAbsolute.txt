@@ -1,0 +1,5 @@
+C:\SortingArray\SortingArrayAlgorithm\SortingArrayAlgorithm\bin\Debug\SortingArrayAlgorithm.exe.config
+C:\SortingArray\SortingArrayAlgorithm\SortingArrayAlgorithm\bin\Debug\SortingArrayAlgorithm.exe
+C:\SortingArray\SortingArrayAlgorithm\SortingArrayAlgorithm\bin\Debug\SortingArrayAlgorithm.pdb
+C:\SortingArray\SortingArrayAlgorithm\SortingArrayAlgorithm\obj\Debug\SortingArrayAlgorithm.exe
+C:\SortingArray\SortingArrayAlgorithm\SortingArrayAlgorithm\obj\Debug\SortingArrayAlgorithm.pdb
